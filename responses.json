@@ -1,0 +1,6 @@
+{
+  "greeting": ["hello", "hi", "hey"],
+  "name": ["what is your name", "who are you"],
+  "bye": ["bye", "goodbye"],
+  "thanks": ["thanks", "thank you"]
+}
